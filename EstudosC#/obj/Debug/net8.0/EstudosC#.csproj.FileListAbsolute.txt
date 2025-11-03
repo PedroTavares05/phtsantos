@@ -1,0 +1,11 @@
+C:\Users\CDI\Documents\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.deps.json
+C:\Users\CDI\Documents\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.dll
+C:\Users\CDI\Documents\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.pdb
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.AssemblyInfoInputs.cache
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.AssemblyInfo.cs
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.csproj.CoreCompileInputs.cache
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.dll
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\refint\EstudosC#.dll
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.pdb
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\ref\EstudosC#.dll
