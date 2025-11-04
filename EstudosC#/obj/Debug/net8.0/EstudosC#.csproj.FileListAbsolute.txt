@@ -9,3 +9,4 @@ C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.dll
 C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\refint\EstudosC#.dll
 C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.pdb
 C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\ref\EstudosC#.dll
+C:\Users\CDI\Documents\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.sourcelink.json

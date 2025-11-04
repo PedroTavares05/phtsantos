@@ -3,6 +3,26 @@
 // {
 using EstudosC_.models;
  
+
+Calculadora calc = new Calculadora();
+
+calc.Somar(20, 30);
+calc.Division(20, 2);
+calc.Multiplication(2, 5);
+calc.Subtracao(9, 5);
+calc.Potenciacao(3, 3);
+calc.Seno(9);
+calc.ConoSeno(9);
+calc.Tange(9);
+int Numero = 10;
+
+Console.WriteLine(Numero);
+Numero++;
+Console.WriteLine(Numero);
+calc.RaizQuadrada(9);
+calc.RaizQuadrada(200);
+
+
 //     Console.WriteLine("Escolha um numero para fazer a tabuada dele de 0 a 10");
 //     string Escolha = Console.ReadLine() ?? "";
 //     int Tabuada;
@@ -45,21 +65,3 @@ Console.WriteLine($"A soma dos valoires totais é de {soma} ");
 
 
 
-
-// Calculadora calc = new Calculadora();
-
-// calc.Somar(20, 30);
-// calc.Division(20, 2);
-// calc.Multiplication(2, 5);
-// calc.Subtracao(9, 5);
-// calc.Potenciacao(3, 3);
-// calc.Seno(9);
-// calc.ConoSeno(9);
-// calc.Tange(9);
-// int Numero = 10;
-
-// Console.WriteLine(Numero);
-// Numero++;
-// Console.WriteLine(Numero);
-// calc.RaizQuadrada(9);
-// calc.RaizQuadrada(200);

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudos de C#", "Estudos-de
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudosC#", "EstudosC#\EstudosC#.csproj", "{735EBB5C-656A-4DA3-8E54-D9C58D2F0337}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesDeArray", "TestesDeArray\TestesDeArray.csproj", "{C3128EA3-1BA7-41C4-9C12-C87B7F2D2A79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{735EBB5C-656A-4DA3-8E54-D9C58D2F0337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735EBB5C-656A-4DA3-8E54-D9C58D2F0337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735EBB5C-656A-4DA3-8E54-D9C58D2F0337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3128EA3-1BA7-41C4-9C12-C87B7F2D2A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3128EA3-1BA7-41C4-9C12-C87B7F2D2A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3128EA3-1BA7-41C4-9C12-C87B7F2D2A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3128EA3-1BA7-41C4-9C12-C87B7F2D2A79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
