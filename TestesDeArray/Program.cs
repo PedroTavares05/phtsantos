@@ -13,3 +13,12 @@ foreach ( int ContadorArray in ArrayTeste)
 {
     Console.WriteLine($"{ContadorArray}");
 }
+int[] ArrayTesteDobro = new int[ArrayTeste.Length * 2];
+Array.Copy(ArrayTeste, ArrayTesteDobro, ArrayTeste.Length);
+
+
+Console.WriteLine("====================================");
+foreach (int ContadorArray in ArrayTesteDobro)
+{
+    Console.WriteLine($"{ContadorArray}");
+}

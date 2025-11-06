@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CDI\\.nuget\\packages\\": {}
+    "C:\\Users\\Phtsa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CDI\\Documents\\phtsantos\\EstudosC#\\EstudosC#.csproj",
+      "projectUniqueName": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\PRJ\\phtsantos\\EstudosC#\\EstudosC#.csproj",
       "projectName": "EstudosC#",
-      "projectPath": "C:\\Users\\CDI\\Documents\\phtsantos\\EstudosC#\\EstudosC#.csproj",
-      "packagesPath": "C:\\Users\\CDI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CDI\\Documents\\phtsantos\\EstudosC#\\obj\\",
+      "projectPath": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\PRJ\\phtsantos\\EstudosC#\\EstudosC#.csproj",
+      "packagesPath": "C:\\Users\\Phtsa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Phtsa\\OneDrive\\Desktop\\Etudos\\Udemy\\C#Aulas\\UC-12\\exemplo2\\Nova pasta\\PRJ\\phtsantos\\EstudosC#\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\CDI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Phtsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -46,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -67,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
