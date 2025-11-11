@@ -22,3 +22,15 @@ C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Nova pasta\P
 C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Nova pasta\PRJ\phtsantos\EstudosC#\obj\Debug\net8.0\refint\EstudosC#.dll
 C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Nova pasta\PRJ\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.pdb
 C:\Users\Phtsa\OneDrive\Desktop\Etudos\Udemy\C#Aulas\UC-12\exemplo2\Nova pasta\PRJ\phtsantos\EstudosC#\obj\Debug\net8.0\ref\EstudosC#.dll
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.deps.json
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.dll
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.pdb
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.AssemblyInfoInputs.cache
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.AssemblyInfo.cs
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.csproj.CoreCompileInputs.cache
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.sourcelink.json
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.dll
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\refint\EstudosC#.dll
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.pdb
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\ref\EstudosC#.dll

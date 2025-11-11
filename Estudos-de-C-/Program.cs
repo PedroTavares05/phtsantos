@@ -121,3 +121,53 @@
 // {
 //     Console.WriteLine("entrada não autorizada");
 // }
+
+
+
+// TimeOnly ApenasHora = new TimeOnly(5,10,59);
+// DateOnly ApenasData = new DateOnly(2022,10,25);
+// DateTime DataEHora = DateTime.Now;
+// Console.WriteLine(ApenasHora.Hour);
+// Console.WriteLine(ApenasHora.Minute);
+// Console.WriteLine(ApenasHora.Second);
+// Console.WriteLine(ApenasData.Year);
+// Console.WriteLine(ApenasData.Month);
+// Console.WriteLine(ApenasData.Day);
+// Console.WriteLine(DataEHora.ToLongDateString());
+// Console.WriteLine(DataEHora.ToLongTimeString());
+// Console.WriteLine(DataEHora.AddDays(4).ToShortDateString());
+// Console.WriteLine(DataEHora.ToShortTimeString());
+// Console.WriteLine(DataEHora.DayOfWeek);
+// Console.WriteLine(DataEHora.DayOfYear);
+
+
+// int? B = 0;
+// if (B.HasValue)
+// {
+//     Console.WriteLine($"O B possui um valor {B.Value}");
+// }
+// else
+// {
+//     Console.WriteLine("O B não possui um valor");
+// }
+
+// string Entrada = Console.ReadLine() ?? "";
+// string[] Separador = Entrada.Split(' ');
+
+
+// Console.WriteLine($"{Separador[0]}------ {Separador[1]}");
+
+
+
+
+
+
+// fazendo execicios da udemy
+DateTime DataAtual = new DateTime(1999, 09, 04);
+Console.WriteLine(DataAtual);
+const int Ano = 12;
+Console.WriteLine(Ano);
+double? nota = 7.80;
+Console.WriteLine(nota);
+string valor = "ola\\ola";
+Console.WriteLine("ola \n  \a formulario \f \n não sei o que faz \r e esse tbm não sei o que faz \t esse tbm não sei \v ");

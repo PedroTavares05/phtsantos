@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CDI\\Documents\\phtsantos\\Estudos-de-C-\\Estudos de C#.csproj",
+      "projectUniqueName": "C:\\Users\\CDI\\Documents\\Prjs\\phtsantos\\Estudos-de-C-\\Estudos de C#.csproj",
       "projectName": "Estudos de C#",
-      "projectPath": "C:\\Users\\CDI\\Documents\\phtsantos\\Estudos-de-C-\\Estudos de C#.csproj",
+      "projectPath": "C:\\Users\\CDI\\Documents\\Prjs\\phtsantos\\Estudos-de-C-\\Estudos de C#.csproj",
       "packagesPath": "C:\\Users\\CDI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CDI\\Documents\\phtsantos\\Estudos-de-C-\\obj\\",
+      "outputPath": "C:\\Users\\CDI\\Documents\\Prjs\\phtsantos\\Estudos-de-C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CDI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\CDI\\Documents\\phtsantos\\EstudosC#\\EstudosC#.csproj": {
-              "projectPath": "C:\\Users\\CDI\\Documents\\phtsantos\\EstudosC#\\EstudosC#.csproj"
+            "C:\\Users\\CDI\\Documents\\Prjs\\phtsantos\\EstudosC#\\EstudosC#.csproj": {
+              "projectPath": "C:\\Users\\CDI\\Documents\\Prjs\\phtsantos\\EstudosC#\\EstudosC#.csproj"
             }
           }
         }

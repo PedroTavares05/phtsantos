@@ -1,16 +1,15 @@
-﻿//Fazendo listas string e int
-List<int> ListaDeInteiros = new List<int>();
-List<string> ListaDeString = new List<string>();
-ListaDeString.Add("ES");
-ListaDeString.Add("BH");
-ListaDeString.Add("RJ");
-ListaDeString.Add("SP");
+﻿// //Fazendo listas string e int
+// List<int> ListaDeInteiros = new List<int>();
+// List<string> ListaDeString = new List<string>();
+// ListaDeString.Add("ES");
+// ListaDeString.Add("BH");
+// ListaDeString.Add("RJ");
+// ListaDeString.Add("SP");
 
-foreach (string ListaDeExemplo in ListaDeString)
-{
-    Console.WriteLine($"A sigla do estado é: {ListaDeExemplo}");
-}
-
+// foreach (string ListaDeExemplo in ListaDeString)
+// {
+//     Console.WriteLine($"A sigla do estado é: {ListaDeExemplo}");
+// }
 
 
 
