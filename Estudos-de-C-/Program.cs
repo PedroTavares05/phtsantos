@@ -163,11 +163,37 @@
 
 
 // fazendo execicios da udemy
-DateTime DataAtual = new DateTime(1999, 09, 04);
-Console.WriteLine(DataAtual);
-const int Ano = 12;
-Console.WriteLine(Ano);
-double? nota = 7.80;
-Console.WriteLine(nota);
-string valor = "ola\\ola";
-Console.WriteLine("ola \n  \a formulario \f \n não sei o que faz \r e esse tbm não sei o que faz \t esse tbm não sei \v ");
+// DateTime DataAtual = new DateTime(1999, 09, 04);
+// Console.WriteLine(DataAtual);
+// const int Ano = 12;
+// Console.WriteLine(Ano);
+// double? nota = 7.80;
+// Console.WriteLine(nota);
+// string valor = "ola\\ola";
+// Console.WriteLine("ola \n  \a formulario \f \n não sei o que faz \r e esse tbm não sei o que faz \t esse tbm não sei \v ");
+
+double Teste2 = 85.56;
+
+int Teste1 = (int)Teste2;
+Console.WriteLine(Teste1);
+
+int? Teste3 = null;
+
+if (Teste3.HasValue)
+{
+    Console.WriteLine("tudo certo");
+}
+
+else
+{
+    Console.WriteLine("Não está nada certo");
+}
+
+ DateTime dat = DateTime.Now;
+      Console.WriteLine("The time: {0:d} at {0:t}", dat);
+      TimeZoneInfo tz = TimeZoneInfo.Local;
+      Console.WriteLine("The time zone: {0}\n",
+                        tz.IsDaylightSavingTime(dat) ?
+                           tz.DaylightName : tz.StandardName);
+      Console.Write("Press <Enter> to exit... ");
+      while (Console.ReadKey().Key != ConsoleKey.Backspace) {}
