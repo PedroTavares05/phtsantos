@@ -1,6 +1,3 @@
-﻿namespace EstudosC_;
-
-public class Class1
-{
-
-}
+﻿using EstudosC_.models;
+Calculadora calcu = new Calculadora();
+calcu.Exponencial(9);

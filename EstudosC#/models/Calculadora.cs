@@ -53,5 +53,32 @@ namespace EstudosC_.models
             Double Raiz = Math.Sqrt(x);
             Console.WriteLine($"A raiz de {x} = {Raiz}");
         }
+        public void Exponencial(float x)
+        { double Result= Math.Exp(x);
+        Console.WriteLine($"A exponenciação do numero {x} é = {Result}");
+        }
+        public void LogDe10(float x)
+        {
+            double Result= Math.Log10(x);
+            Console.WriteLine($"O log de 10 do numero {x} é = {Result}");
+        }
+        public void LogNormal(float x)
+        {
+            double  Result= Math.Log(x);
+            Console.WriteLine($"O log normal do numero (x) é de = {Result}");
+        }
+        public void Maximo(float x, float y)
+        { double Result= Math.Max(x, y);
+            Console.WriteLine($"O valor maximo entre os numeros {x} e {y} é = {Result}");
+        }
+        public void Minimo(float x, float y)
+        { Double Result = Math.Min(x, y);
+            Console.WriteLine($"O valor maximo entre os numeros {x} e {y} é = {Result}");
+        }
+        public void LogaritimoNatural(float x)
+        {
+            double Result= Math.E;
+            Console.WriteLine($"O valor do Logaritimo Natural é =  {Result}");
+        }                
     }
 }

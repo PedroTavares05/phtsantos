@@ -34,3 +34,6 @@ C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.dll
 C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\refint\EstudosC#.dll
 C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.pdb
 C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\ref\EstudosC#.dll
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.exe
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\bin\Debug\net8.0\EstudosC#.runtimeconfig.json
+C:\Users\CDI\Documents\Prjs\phtsantos\EstudosC#\obj\Debug\net8.0\EstudosC#.genruntimeconfig.cache
